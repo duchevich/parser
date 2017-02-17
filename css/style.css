@@ -1,0 +1,27 @@
+body{
+	background-color: #FFD073;
+}
+header{
+	background-color: #06266F;
+	min-height: 500px;
+}
+h3, h4, p{
+	text-align: center;
+}
+.title{
+	color: #FFAA00;
+	padding-left: 50px;
+}
+.news{
+	min-height: 500px;
+	margin-top: -400px;
+	background-color: #eff1f4;
+}
+.button-update{
+	margin-top: 20px;
+}
+.data{
+	text-align: left;
+	font-size: 14px;
+	font-weight: bold;
+}
