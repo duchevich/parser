@@ -4,5 +4,5 @@
 
 HTML, CSS,
 bootstrap, 
-php, mysql
+php, mysql,
 сервер XAMPP
